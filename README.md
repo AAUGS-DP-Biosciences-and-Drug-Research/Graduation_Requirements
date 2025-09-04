@@ -1,29 +1,38 @@
-# graduate-doc-template
+# Graduation Requirements
 
+## Duration
+- A PhD thesis **typically takes 3–4 years** to complete.
 
-This template repository renders the `README.md` file into a styled HTML page and a downloadable PDF using a Jinja2 template and WeasyPrint. It is fully automated via GitHub Actions and designed to be reused across graduate school documentation categories.
+## Credits
+- To graduate, **30 ECTS** are required — see the **[Curriculum](https://aaugs-dp-biosciences-and-drug-research.github.io/Curriculum/)**.
 
-## 🚀 Features
-- 📄 Write content in Markdown (`README.md`)
-- 🎨 Apply custom styling via Jinja2 template
-- 🌐 Deploy as a static website via GitHub Pages
-- 🧾 Export as PDF using WeasyPrint
+---
 
-## 🛠️ Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-ORG/graduate-doc-template.git your-topic-doc
-   cd your-topic-doc
-   ```
+## Dissertation Format (Current AAU Regulations)
 
-2. Edit `README.md` with your content.
-3. Commit and push changes.
+At **Åbo Akademi University (AAU)**, a typical **article-based dissertation** contains **3–6 articles**. New regulations will be released soon.
 
-GitHub Actions will:
-- Convert the README to HTML using the Jinja2 template
-- Export the HTML as a PDF
-- Publish both to GitHub Pages
+- As a rule, the articles must be **published or approved for publication**.  
+- If articles **not yet approved** for publication are included, the **preliminary examiners** shall attach special importance to them.  
+- **Co-authored** articles can be approved **provided the doctoral student’s independent contribution is clearly evident**.  
+- The doctoral student must be **first author on at least one** of the articles included.  
+- The **Dean** may approve examination of article-based dissertations with **fewer than the recommended number** of publications **if** the **comprehensiveness and quality** of the articles is sufficiently high.
 
-## 📄 Output
-- `public/index.html` – Web version
-- `public/Document.pdf` – Downloadable PDF
+---
+
+## Doctoral Programme Recommendations
+
+Within our doctoral programme, we **recommend** the following to emphasize **quality over quantity**:
+
+- A **typical thesis consists of two high-quality papers**, with **at least one** paper as a **first-author** publication.  
+- **≥50%** of the included work should be **published** (or accepted).  
+- The decision to proceed to the **PhD defence** is made by the **supervisor** and the **head of subject**.  
+- For each manuscript included in the thesis, the **contribution of the doctoral student must be clearly explained and justified**:
+  - Avoid vague statements.  
+  - **List specific figure panels** and contributions (**data generation**, **analysis**, etc.)  
+  - Use a **template signed by the supervisor**.
+
+---
+
+## Full Regulations
+- 📄 **[AAU PhD Regulations (PDF)](https://web.abo.fi/fou/stadgor/regulationdoctoralstudies.pdf)**
