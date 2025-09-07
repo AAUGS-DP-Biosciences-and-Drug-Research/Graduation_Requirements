@@ -14,8 +14,8 @@ At **Åbo Akademi University (AAU)**, a typical **article-based dissertation** c
 
 - As a rule, the articles must be **published or approved for publication**.  
 - If articles **not yet approved** for publication are included, the **preliminary examiners** shall attach special importance to them.  
-- **Co-authored** articles can be approved **provided the doctoral student’s independent contribution is clearly evident**.  
-- The doctoral student must be **first author on at least one** of the articles included.  
+- **Co-authored** articles can be approved **provided the PhD researcher’s independent contribution is clearly evident**.  
+- The PhD researcher must be **first author on at least one** of the articles included.  
 - The **Dean** may approve examination of article-based dissertations with **fewer than the recommended number** of publications **if** the **comprehensiveness and quality** of the articles is sufficiently high.
 
 ---
@@ -27,7 +27,7 @@ Within our doctoral programme, we **recommend** the following to emphasize **qua
 - A **typical thesis consists of two high-quality papers**, with **at least one** paper as a **first-author** publication.  
 - **≥50%** of the included work should be **published** (or accepted).  
 - The decision to proceed to the **PhD defence** is made by the **supervisor** and the **head of subject**.  
-- For each manuscript included in the thesis, the **contribution of the doctoral student must be clearly explained and justified**:
+- For each manuscript included in the thesis, the **contribution of the PhD researcher must be clearly explained and justified**:
   - Avoid vague statements.  
   - **List specific figure panels** and contributions (**data generation**, **analysis**, etc.)  
   - Use a **template signed by the supervisor**.
