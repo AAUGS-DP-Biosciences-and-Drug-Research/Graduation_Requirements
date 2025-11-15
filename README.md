@@ -1,4 +1,4 @@
-# Graduation Requirements
+# 🎓 Graduation Requirements
 
 ## Duration
 - A PhD thesis **typically takes 3–4 years** to complete.
@@ -10,13 +10,24 @@
 
 ## Dissertation Format (Current AAU Regulations)
 
-At **Åbo Akademi University (AAU)**, a typical **article-based dissertation** contains **3–6 articles**. New regulations will be released soon.
+An article-based doctoral dissertation typically consists of **2–3 scientific articles**.  
+A licentiate dissertation must include **at least one article**.  
+In addition to what is outlined in this procedure, doctoral programmes may provide programme-specific guidelines for article-based dissertations.
 
-- As a rule, the articles must be **published or approved for publication**.  
-- If articles **not yet approved** for publication are included, the **preliminary examiners** shall attach special importance to them.  
-- **Co-authored** articles can be approved **provided the PhD researcher’s independent contribution is clearly evident**.  
-- The PhD researcher must be **first author on at least one** of the articles included.  
-- The **Dean** may approve examination of article-based dissertations with **fewer than the recommended number** of publications **if** the **comprehensiveness and quality** of the articles is sufficiently high.
+The following are considered scientific articles:
+- Published articles  
+- Articles accepted for publication  
+- Unpublished manuscripts that have undergone peer review or been accepted for publication  
+- Unpublished manuscripts submitted for peer review  
+
+### Number of Articles
+The articles constitute the main scientific contribution of the dissertation.  
+The number of articles depends on their **scope**, **scientific significance**, and **quality**, the **publication platform**, and the **author’s individual contribution** in the case of co-authored articles.  
+
+At least **one article must be accepted for publication**.  
+In exceptional cases, the **Head of Department** may approve the submission of a dissertation with fewer articles than recommended, provided that the scope and quality are sufficiently high.  
+
+Preliminary examiners will pay particular attention to articles that have not yet been accepted for publication.
 
 ---
 
@@ -35,4 +46,4 @@ Within our doctoral programme, we **recommend** the following to emphasize **qua
 ---
 
 ## Full Regulations
-- 📄 **[AAU PhD Regulations (PDF)](https://web.abo.fi/fou/stadgor/regulationdoctoralstudies.pdf)**
+- 📄 **[AAU PhD Regulations (PDF)](https://www.abo.fi/wp-content/uploads/2025/11/regulation-on-doctoral-studies.pdf)**
